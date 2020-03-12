@@ -1,6 +1,10 @@
 
 # Readme Generator
 A CLI app designed to generate Readme files quickly & easily. The user will be prompted with a series of questions and based on the answers, a properly formatted document will be generated ready for deployment.
+
+![Questions Preview](https://github.com/yeasir01/readme-generator/blob/master/images/Questions.png)
+![Confirmation Preview](https://github.com/yeasir01/readme-generator/blob/master/images/confirmations.png)
+
 ## Table of contents
 * [Installation](#Installation)
 * [Usage](#Usage)
